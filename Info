@@ -1,0 +1,9 @@
+
+
+JSON.simple library is used in this project
+
+http://localhost:8080/
+
+we can read JSON and write JSON file/String only (but We can't convert Java POJO to JSON and JSON to Java POJO)
+
+
